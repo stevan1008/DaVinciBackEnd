@@ -2,6 +2,21 @@
 
 ## Indicaciones
 
+_Se recomienda usar archivos CSV de prueba, para lo cuál recomiendo https://www.mockaroo.com/  para la creación de datos de pruebas._
+
+```
+
+Allí asignar los siguientes campos:
+
+id: Row Number
+Nombres: First Name
+Apellidos: Second Name
+Telefonos: Phone
+Direccion: Street Address
+createdAt: Datetime
+updatedAt: Datetime
+```
+
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo._
 
 ```
