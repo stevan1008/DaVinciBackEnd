@@ -3,6 +3,7 @@
 ## Indicaciones
 
 _Se recomienda usar archivos CSV de prueba, para lo cuál recomiendo https://www.mockaroo.com/  para la creación de datos de pruebas._
+_Es obligatorio crear la Base de Datos en MYSQL antes de inicializar el proyecto, la aplicación solo crea la tabla y las columnas, no la Base de DATOS._
 
 ```
 
